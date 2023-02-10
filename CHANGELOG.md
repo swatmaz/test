@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.0](https://github.com/swatmaz/test/compare/v0.2.0...v1.0.0) (2023-02-10)
+
+
+### Features
+
+* release first version ([c90867a](https://github.com/swatmaz/test/commit/c90867ac3177782ee68d9fcfa66f8a4ffeb48c97))
+
 ## [0.2.0](https://github.com/swatmaz/test/compare/v0.1.0...v0.2.0) (2023-02-10)
 
 
