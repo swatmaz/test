@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/swatmaz/test/compare/v1.0.1...v1.0.2) (2023-02-10)
+
+
+### Bug Fixes
+
+* Add Breaking Change ([2a3ec7e](https://github.com/swatmaz/test/commit/2a3ec7ee64f62a5b76503487414a78d7d16f5d2e))
+
 ## [1.0.1](https://github.com/swatmaz/test/compare/v1.0.0...v1.0.1) (2023-02-10)
 
 
