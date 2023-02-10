@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.0](https://github.com/swatmaz/test/compare/v0.0.1...v0.1.0) (2023-02-10)
+
+
+### Features
+
+* Add new property ([4d7fbfc](https://github.com/swatmaz/test/commit/4d7fbfc1ad91180c790f29981c1d5c0e6d08082c))
+* Remove release-as property ([cd88794](https://github.com/swatmaz/test/commit/cd887945d80f5c5a6ca224750f80d5fdeb6bb0ed))
+
+
+### Miscellaneous Chores
+
+* **master:** release 0.0.1 ([9ec0370](https://github.com/swatmaz/test/commit/9ec0370166e3049a4809f235447fb1630db8a834))
+
 ## [0.0.1](https://github.com/swatmaz/test/compare/v0.0.1...v0.0.1) (2023-02-10)
 
 
