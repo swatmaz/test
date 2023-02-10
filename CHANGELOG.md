@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.1](https://github.com/swatmaz/test/compare/v0.0.1...v0.0.1) (2023-02-10)
+
+
+### Features
+
+* Add new property ([4d7fbfc](https://github.com/swatmaz/test/commit/4d7fbfc1ad91180c790f29981c1d5c0e6d08082c))
+
 ## 0.0.1 (2023-02-10)
 
 
